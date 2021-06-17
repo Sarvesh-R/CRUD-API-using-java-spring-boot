@@ -1,7 +1,7 @@
 # CRUD-API-using-java-spring-boot
 An API to create, read, update, delete data using java spring boot.
 
-Endpoints:
+The app defines following CRUD APIs.
 
 POST - http://localhost:8080/employees
 
