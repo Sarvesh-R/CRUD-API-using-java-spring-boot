@@ -1,5 +1,5 @@
 # CRUD-API-using-java-spring-boot
-An API to create, read, update, delete data using java spring boot.
+This exercise explains CRUD (Create, Read, Update, Delete) operations using spring boot and H2 in-memory database and also using Spring Data JPA (CRUDRepository) for built-in methods to do CRUD operations.
 
 The app defines following CRUD APIs.
 
