@@ -31,5 +31,8 @@ PUT :
 
 ![Capture4](https://user-images.githubusercontent.com/66325658/122511526-05867f80-d025-11eb-86d5-9b3200d7bafe.PNG)
 
+DELETE:
+
+![Capture5](https://user-images.githubusercontent.com/66325658/122511722-526a5600-d025-11eb-8d52-bc9f5dcc12fc.PNG)
 
 
