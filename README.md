@@ -22,3 +22,7 @@ POST :
 GET (All employees):
 
 ![Capture2](https://user-images.githubusercontent.com/66325658/122510788-cf94cb80-d023-11eb-874e-4fd86e005cfc.PNG)
+
+GET (Employee by ID):
+
+![Capture3](https://user-images.githubusercontent.com/66325658/122510984-2dc1ae80-d024-11eb-9553-600798f8d829.PNG)
