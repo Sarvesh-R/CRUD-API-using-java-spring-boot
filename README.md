@@ -14,3 +14,6 @@ PUT - http://localhost:8080/employees
 DELETE - http://localhost:8080/employee/{employeeid}
 
 Testing APIs using Postman client.
+
+POST :
+![Capture1](https://user-images.githubusercontent.com/66325658/122510290-fef70880-d022-11eb-8fb7-e5784cee4261.PNG)
