@@ -29,4 +29,7 @@ GET (Employee by ID):
 
 PUT :
 
+![Capture4](https://user-images.githubusercontent.com/66325658/122511526-05867f80-d025-11eb-86d5-9b3200d7bafe.PNG)
+
+
 
