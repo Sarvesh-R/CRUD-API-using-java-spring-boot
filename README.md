@@ -12,3 +12,5 @@ GET - http://localhost:8080/employee/{employeeid}  (Get employee by ID)
 PUT - http://localhost:8080/employees
 
 DELETE - http://localhost:8080/employee/{employeeid}
+
+Testing APIs using Postman client.
