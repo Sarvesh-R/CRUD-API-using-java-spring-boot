@@ -13,7 +13,7 @@ PUT - http://localhost:8080/employees
 
 DELETE - http://localhost:8080/employee/{employeeid}
 
-<h2>Testing the CRUD endpoints using postman.</h2>
+<h2>Testing the CRUD endpoints using postman:</h2>
 
 POST :
 
