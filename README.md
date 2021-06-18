@@ -40,4 +40,4 @@ DELETE:
 
  Updated database :
   
- 
+ ![Capture6](https://user-images.githubusercontent.com/66325658/122513225-bee65480-d027-11eb-92a0-c4db025330e7.PNG)
