@@ -26,3 +26,7 @@ GET (All employees):
 GET (Employee by ID):
 
 ![Capture3](https://user-images.githubusercontent.com/66325658/122510984-2dc1ae80-d024-11eb-9553-600798f8d829.PNG)
+
+PUT :
+
+
