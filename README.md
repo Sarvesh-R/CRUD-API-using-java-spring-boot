@@ -19,6 +19,6 @@ POST :
 
 ![Capture1](https://user-images.githubusercontent.com/66325658/122510290-fef70880-d022-11eb-8fb7-e5784cee4261.PNG)
 
-GET :
+GET (All employees):
 
 ![Capture2](https://user-images.githubusercontent.com/66325658/122510788-cf94cb80-d023-11eb-874e-4fd86e005cfc.PNG)
